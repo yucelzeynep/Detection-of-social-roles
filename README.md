@@ -1,6 +1,6 @@
 # Estimating-of-social-relation-from-trajectories
 
-This repository contains the source code relating the results reported in our manuscripts [1] and [2]. 
+This repository contains the source code relating the results reported in our PLoS One (2019) and PED-2018 articles [1,2]. 
 
 Our study focuses on social pedestrian groups in public spaces and makes an effort to identify the type of social relation between the group members. As a first step for this identification problem, we focus on dyads (i.e. 2 people groups). Moreover, as a mutually exclusive categorization of social relations, we consider the domain-based approach of Bugental [3], which precisely corresponds to social relations of colleagues, couples, friends and families, and identify each dyad with one of those relations. For this purpose, we use anonymized trajectory data (freey available at [4]) and derive a set of observables thereof, namely, inter-personal distance, group velocity, velocity difference and height difference. Subsequently, we use the probability density functions (pdf) of these observables as a tool to understand the nature of the relation between pedestrians. To that end, we propose different ways of using the pdfs. Namely, we introduce a probabilistic Bayesian approach and contrast it to a functional metric one and evaluate the performance of both methods with appropriate assessment measures. 
 
