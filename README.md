@@ -1,4 +1,5 @@
 # Identification of social relation within pedestrian dyads
+Source code used for deriving the results reported in our PLoS One (2019) and PED-2018 articles
 
 This repository contains the source code relating the results reported in our PLoS One (2019) and PED-2018 articles [1,2]. 
 
