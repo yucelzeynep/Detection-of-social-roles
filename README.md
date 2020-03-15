@@ -8,15 +8,15 @@ Our study stands out as the first attempt to automatically recognize social rela
 
 **References**
 
-[1] Zeynep Yücel, Francesco Zanlungo, Claudio Feliciani, Adrien Gregorj, Takayuki Kanda
-Identification of social relation within pedestrian dyads
+[1] Zeynep Yücel, Francesco Zanlungo, Claudio Feliciani, Adrien Gregorj, Takayuki Kanda;
+Identification of social relation within pedestrian dyads;
 PloS One, doi: 10.1371/journal.pone.0223656, Oct. 2019.
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223656
 
-[2] Zeynep Yücel, Francesco Zanlungo, Claudio Feliciani, Adrien Gregorj, Takayuki Kanda
-Estimating social relation from trajectories
+[2] Zeynep Yücel, Francesco Zanlungo, Claudio Feliciani, Adrien Gregorj, Takayuki Kanda;
+Estimating social relation from trajectories;
 Pedestrian and Evacuation Dynamics, PED 2018.
 
-[3] DB Bugental DB, Acquisition of the algorithms of social life: A domain-based approach. Psychological Bulletin. 2000;126(2):187. pmid:10748640 
+[3] DB Bugental DB; Acquisition of the algorithms of social life: A domain-based approach; Psychological Bulletin. 2000; 126(2):187. pmid:10748640 
 
 [4] ATR-IRC. Dataset: Pedestrian tracking with group annotations; http://www.irc.atr.jp/sets/groups/. 
